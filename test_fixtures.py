@@ -11,6 +11,5 @@ def test1(setup):
 
 
 def test2():
-    print("executing test2")
+    print("Executing test2")
     assert True
-
