@@ -1,10 +1,15 @@
 Red, green, refactor (Duplicates)
+Leapyear Coding Kata
 
-Setup
+*********
+
 Create test_leapyear.py
 import pytest
 
+def test_somefuncation():
+    assert True
 
+*********
 
 TODOs
 - Can Call LeapYear
@@ -12,3 +17,7 @@ TODOs
 - Returns true for divisible by 4 but not 100 or 400
 - Returns false for divisible by 4 but is divisible by 100 but not 400, and divisible by 400
 - Returns true for divisible by 4, divisible by 100, and divisible by 400
+
+
+- To test fixtures 
+$pytest test_fixtures.py -vs 
