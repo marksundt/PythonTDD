@@ -1,7 +1,7 @@
 Red, green, refactor (Duplicates)
 
-Create test_foo.py
-
+Setup
+Create test_leapyear.py
 import pytest
 
 
