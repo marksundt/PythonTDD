@@ -1,1 +1,4 @@
-print("Hello world")
+import pytest
+
+def test_canAssertTrue():
+    assert True
